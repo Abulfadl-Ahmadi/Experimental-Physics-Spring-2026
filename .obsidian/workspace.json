@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69455308e93bc627",
+        "id": "65779cc3c82f6f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "055176bad78d1ccd",
+            "id": "5a78f55cb56e756d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,6 +176,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "055176bad78d1ccd",
-  "lastOpenFiles": []
+  "active": "5a78f55cb56e756d",
+  "lastOpenFiles": [
+    "gas_and_optical_thermometers.md",
+    "answer-gemini-3-1-pro.md",
+    "answer.md",
+    "AGENT_draft.md",
+    "index.md",
+    "Mind-Map.md",
+    "concepts/atomic-and-molecular-spectra.md",
+    "concepts/millikelvin-cooling.md",
+    "concepts/leds.md",
+    "concepts/vacuum-pumps.md",
+    "concepts/pressure-gauges.md",
+    "concepts/vacuum.md",
+    "concepts/gas-flow-regimes.md",
+    "README.md"
+  ]
 }
