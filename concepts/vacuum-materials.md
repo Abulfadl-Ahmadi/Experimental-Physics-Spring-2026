@@ -5,7 +5,7 @@ base_confidence: 0.9
 lifecycle: draft
 tier: core
 sources:
-  - "c:\\Users\\Mester\\Desktop\\semester 4\\Experimental Physics\\exam\\Chapter6-Processed.md"
+  - "c:\\Users\\Mester\\Desktop\\semester 4\\Experimental Physics\\exam\\_raw\\Chapter6-Processed.md"
 provenance:
   extracted: 1.0
   inferred: 0.0

@@ -5,8 +5,8 @@ base_confidence: 0.9
 lifecycle: draft
 tier: core
 sources:
-  - "c:\\Users\\Mester\\Desktop\\semester 4\\Experimental Physics\\exam\\Chapter8-Processed.md"
-  - "c:\\Users\\Mester\\Desktop\\semester 4\\Experimental Physics\\exam\\Chapter8-Processed2.md"
+  - "c:\\Users\\Mester\\Desktop\\semester 4\\Experimental Physics\\exam\\_raw\\Chapter8-Processed.md"
+  - "c:\\Users\\Mester\\Desktop\\semester 4\\Experimental Physics\\exam\\_raw\\Chapter8-Processed2.md"
 provenance:
   extracted: 1.0
   inferred: 0.0
